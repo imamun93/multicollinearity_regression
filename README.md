@@ -5,3 +5,7 @@ In my recent blog post about [Multicollinearity Regression](https://towardsdatas
 This is just a mini project that will help show that process.
 
 The data is from [Multicollinearity in Regression Analysis: Problems, Detection, and Solutions](https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/)
+
+
+For research on [Variance Inflation Factor](https://www.statisticshowto.datasciencecentral.com/variance-inflation-factor/)
+
